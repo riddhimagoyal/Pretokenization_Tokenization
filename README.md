@@ -39,15 +39,6 @@ where the weight **W(A, B)** boosts or penalizes merges based on character categ
 
 Finally, we evaluate these tokenizers using a **Sanskrit → English** MT task.
 
----
-
-## 🏗️ Pipeline Diagram
-
-Below is the horizontal workflow used in this project:
-
-![Pipeline Diagram](A_flowchart_diagram_in_the_image_illustrates_the_p.png)
-
----
 
 ## 📚 Datasets
 
